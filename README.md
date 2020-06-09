@@ -64,4 +64,10 @@ python predict.py \
 ## Citation
 
 ```bibtex
+@inproceedings{ran2019learning,
+  title={Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation},
+  author={Ran, Qiu and Lin, Yankai and Li, Peng and Zhou, Jie},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  year={2020}
+}
 ```
