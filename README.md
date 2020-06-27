@@ -1,6 +1,6 @@
 # Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation
 
-This is the implementation of [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](XXX). The code is based on [OpenNMT](https://github.com/OpenNMT/OpenNMT-py).
+This is the implementation of [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277/). The code is based on [OpenNMT](https://github.com/OpenNMT/OpenNMT-py).
 
 ## Introduction
 
